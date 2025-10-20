@@ -32,5 +32,3 @@ I’m learning programming fundamentals and data structures in multiple language
 Each topic folder (like `Loops/` or `Arrays/`) contains:
 - Multiple practice programs written by me
 - A small `README.md` explaining each file
-
-Example:
