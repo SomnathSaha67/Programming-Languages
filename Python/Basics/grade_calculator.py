@@ -1,4 +1,5 @@
 n=int(input("Enter number of subjects: "))
+final_percentage=0.0
 for i in range(n):
     subject=input(f"Enter name of subject {i+1}: ")
     marks=float(input(f"Enter marks obtained in {subject}: "))
