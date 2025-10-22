@@ -1,0 +1,5 @@
+l=list(input("Enter elements separated by space: ").split())
+i=int(input("Enter index to insert element at: "))
+ele=input("Enter element to insert: ")
+l.insert(i, ele)
+print(l)

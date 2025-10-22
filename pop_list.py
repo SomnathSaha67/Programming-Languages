@@ -1,0 +1,8 @@
+l=list(input("Enter elements separated by space: ").split())
+l.pop()
+print(l)
+i=int(input("Enter index to pop element from: "))
+l.pop(i)
+print(l)
+l.clear()
+print(l)

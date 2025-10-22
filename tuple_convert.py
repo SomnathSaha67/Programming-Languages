@@ -1,0 +1,6 @@
+l=list(input("Enter elements separated by space: ").split())
+print("List:", l)
+tup=tuple(l)
+print("Converted Tuple:", tup)
+newl=list(tup)
+print("Converted back to List:", newl)
