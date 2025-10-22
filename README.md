@@ -1,34 +1,12 @@
-# 🧠 Programming Languages
+# Python 🐍
 
-Welcome to my **Programming Languages** repository!  
-This repo documents my coding journey as a **B.Tech CSE (AIML)** student.  
-I’m learning programming fundamentals and data structures in multiple languages, starting with **C** and **Python**.
+A curated collection of Python programs covering various concepts, from basics to advanced implementations.  
+Perfect for learners, hobbyists, and developers looking to explore Python’s versatility.
 
----
-
-## 📘 Languages Covered
-
-### 🧩 C Language
-- Basics  
-- Loops  
-- Arrays  
-- Strings  
-- Functions  
-- Structures  
-- DSA (Coming Soon)
-
-### 🐍 Python Language
-- Basics  
-- Loops  
-- Lists  
-- Strings  
-- Functions  
-- Dictionaries  
-- DSA (Coming Soon)
-
----
-
-## 🧱 Folder Structure
-Each topic folder (like `Loops/` or `Arrays/`) contains:
-- Multiple practice programs written by me
-- A small `README.md` explaining each file
+## 🧠 Overview
+This repository contains multiple Python scripts demonstrating:
+- Core programming concepts
+- Data structures and algorithms
+- File handling and automation
+- APIs and web scraping
+- Small projects and utilities
