@@ -1,0 +1,6 @@
+string=input("Enter a string: ")
+print(string.lower())
+print(string.upper())
+print(string.title())
+print(string.capitalize())
+print(string.swapcase())
